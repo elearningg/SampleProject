@@ -1,4 +1,4 @@
 # SampleProject
 
 
-Java project
+Java
